@@ -34,7 +34,7 @@ button {
 }
 
 .paginate.left {
-    right: 88%;
+    
 }
 
 .paginate.left i {
@@ -82,7 +82,7 @@ button {
 }
 
 .paginate.right {
-    left: 88%;
+    right :4px;
 }
 
 .paginate.right i {
